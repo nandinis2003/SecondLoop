@@ -22,21 +22,4 @@ SecondLoop is a web-based platform designed to connect users willing to donate u
 4. Start the server: `npm start`
 5. Access the platform via your browser at `http://localhost:3000`
 
-## Contribution
-
-Contributions to SecondLoop are welcome! If you'd like to enhance the platform, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch: `git checkout -b feature/your-feature-name`
-3. Make your changes and commit them: `git commit -m 'Add some feature'`
-4. Push to the branch: `git push origin feature/your-feature-name`
-5. Create a pull request detailing your changes.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Contact
-
-For any inquiries or feedback, feel free to reach out to us at contact@secondloop.com.
 
